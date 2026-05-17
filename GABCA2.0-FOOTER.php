@@ -6,7 +6,7 @@
 <footer id="footer">
 	<div class="container-fluid text-center p-4">
 		<h4 style="letter-spacing: 0.05em; font-weight: bolder;">CONTÁCTANOS</h4>
-		<h2>55.4928.7981</h2>
+		<h2>55.2078.1809</h2>
 		<h4 style="letter-spacing: 0.05em; font-weight: normal;">SERVICIO A TODO MÉXICO Y EL MUNDO</h4>
 
 		<h4 style="color: #4C2F60; font-weight: lighter; letter-spacing: 0.05em;">© 2022 Gabca Bufete Creativo</p>
