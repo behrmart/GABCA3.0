@@ -1,0 +1,360 @@
+
+/*==========================================
+ GABCA2.0 CSS Bootstrap based
+==========================================*/
+
+/*by @behrmart aka Tu Padre Y GABCA*/
+
+/* GABCA2.0 Base Colors SAFE WEB COLORS
+Colores: 
+Naranja:  #e94d1a;
+Dark Grey:  #1d1d1b;
+*/
+
+
+/* -------------------- GABCA2.0 Font faces --------------------------*/
+
+
+/* 
+-------------------- 
+HTML doc & Body 
+--------------------
+*/
+
+html, body {
+	font-family: 'Barlow', sans-serif;
+	height: 100%;
+	width: 100%;
+	color: #9376de ;
+	}
+
+h1 {
+	font-size: 4em;
+	font-weight: normal;
+}
+
+h2 {
+	font-size: 3em;
+	font-weight: bold;
+}
+
+h3 {
+	font-size: 2em;
+	font-weight: lighter;
+}
+
+h4 {
+	font-size: 1em;
+	font-weight: bold;
+}
+
+h5 {
+	font-size: 1em;
+	font-weight: normal;
+}
+
+p {
+	font-size: 1em;
+	font-weight: lighter;
+}
+
+
+.whitetext {
+	color: #fff;
+}
+
+a {
+	color: #4C2F60 /*so link doesnt appear blue on mobile*/
+}
+
+a:hover {
+	color: #e94d1a;
+}
+
+
+
+/* 
+-------------------- 
+Bootstrap Navbar
+--------------------
+*/
+
+
+.navbar {
+	padding: .3rem;
+	background-color: #000; 
+	color: #fff;
+	border-color: #fff !important;
+}
+
+
+.navbar-nav li {
+	padding-right: 20px;
+}
+
+.nav-link {
+	font-size: 1rem !important;
+	color: #fff;
+}
+
+.navbar-inverse .navbar-toggle .icon-bar {
+	color: #fff !important;
+	border-color: #fff !important;
+}
+
+/* 
+-------------------- 
+GABCA2.0 Hero
+--------------------
+*/
+
+.gabcahero {
+	background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,0), rgba(255,255,255,0)), url("../img/FOTO-PRINCIPAL.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.cintanegra {
+	background-color: #000;
+	color: #fff;
+}
+
+
+.quienessomos {
+	background-image: linear-gradient(to right, rgba(255,255,255,0), rgba(255,255,255,0), rgba(255,255,255,0)), url("../img/FOTO10.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: #fff;
+}
+
+
+.container {
+  position: relative;
+  width: 50%;
+}
+
+
+/* 
+-------------------- 
+Image Overlay
+--------------------
+*/
+
+.image {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .7s ease;
+  background-color: #5900ce;
+}
+
+.containerimg:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+
+
+/* 
+-------------------- 
+Bootstrap Buttons
+--------------------
+*/
+
+
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #5900ce !important;
+    border-color: #9B85BE !important;
+}
+
+
+/* 
+-------------------- 
+FOOTER
+--------------------
+*/
+
+footer{
+	background-color: #000;
+	color: #fff;
+}
+
+
+footer a {
+	color: #5900ce; /*so link doesnt appear blue on mobile*/
+}
+
+footer a:hover {
+	color: #fff;
+}
+
+
+
+
+
+
+
+/*-----------------------------------------------------------------------------
+Media Queries 
+-------------------------------------------------------------------------------*/
+
+/* 
+-------------------- 
+LARGE
+--------------------
+*/
+@media (max-width: 992px) {
+
+	html, body {
+	font-size: large;
+	}
+  }
+
+@media (max-width: 800px) {	          /* ----------kindle fire HDX* --------------*/
+  	.carouselprev1 {
+  		width:70%;
+  	}
+}
+ 
+/* 
+-------------------- 
+MEDIUM
+--------------------
+*/  
+@media (max-width: 768px) {    /*--------------- iPad -----------------------*/
+
+	
+	.menufooter1 {
+		text-align: center;
+	}
+
+	.menufooter2 {
+		text-align: center;
+	}	
+
+	.menufooter3 {
+		text-align: center;
+	}
+	
+}
+
+/* 
+-------------------- 
+SMALL
+--------------------
+*/
+
+@media (max-width: 576px) { /*--------------- iPhone -----------------------*/
+  
+	
+	.menufooter1 {
+		text-align: center;
+	}
+
+	.menufooter2 {
+		text-align: center;
+	}	
+
+	.menufooter3 {
+		text-align: center;
+	}
+
+
+}
+
+
+/*---Firefox Bug Fix --*/
+.carousel-item {
+  transition: -webkit-transform 0.5s ease;
+  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, -webkit-transform 0.5s ease;
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+/*--- Fixed Background Image --*/
+figure {
+  position: relative;
+  width: 100%;
+  height: 60%;
+  margin: 0 !important;
+}
+.fixed-wrap {
+  clip: rect(0, auto, auto, 0);
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#fixed {
+  background-image: url('img/bg1.jpg');
+  position: fixed;
+  display: block;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center center;
+  -webkit-transform: translateZ(0);
+          transform: translateZ(0);
+  will-change: transform;
+}
+/*--- Bootstrap Padding Fix --*/
+[class*="col-"] {
+    padding: 1rem;
+}
+
+
+
+/*
+Extra small (xs) devices (portrait phones, less than 576px)
+No media query since this is the default in Bootstrap
+
+Small (sm) devices (landscape phones, 576px and up)
+@media (min-width: 576px) { ... }
+
+Medium (md) devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+Large (lg) devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+Extra (xl) large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
+*/
+
+
+
+
+
+
+
+
