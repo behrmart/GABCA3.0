@@ -239,49 +239,6 @@
 </div>
 
 
-<!-- Gabo Section -->
-
-<div class="container-fluid gabo">
-  <div class="container-fluid">
-    <h4 class="text-center p-4" style="letter-spacing: 0.05em; font-weight: normal;">En palabras de:</h4>
-  </div>
-  
-  <div class="row">
-    <div class="col-md-4"></div>
-    <div class="col-md-4">
-      <div class="container-fluid" data-aos="flip-down" data-aos-duration="1500">
-        <img src="img/GABO.png" class="img-fluid d-block mx-auto">
-      </div>
-    </div>
-  </div>
-
-  <div class="container-fluid">
-    <h2 class="text-center p-2" style="color: #e94d1a;">Gabo</h2>
-    <p class="text-center p-2">Fundador y Director Creativo</p>
-  </div>
-  <div class="container-fluid pb-4">
-    <div class="row">
-      <div class="col-md-2"></div>
-        <div class="col-md-8">
-          <h3 class="text-center p-2" style="font-size: 1.5em;" data-aos="fade-right" data-aos-duration="1500">Nos complace ser parte de tu proyecto y compartir los objetivos de tu marca para posicionar tu producto o servicio.</h3>
-          <h3 class="text-center p-2" style="font-size: 1.5em;" data-aos="fade-left" data-aos-duration="1500">Ten por seguro que nuestra amplia experiencia dará un resultado de extraordinaria creatividad que derive en una eficacia comercial, ganando nuevos clientes y seguidores. </h3>
-          <h3 class="text-center p-2" style="font-style: italic; font-weight: bold; font-size: 1.5em;" data-aos="flip-up" data-aos-duration="1500">"Gracias por ponerte en nuestras manos, nosotros nos ponemos tu camiseta".</h3>
-        </div>
-      </div>
-  </div>
-
-  <div class="container-fluid pt-4">
-    <div class="row">
-      <div class="col-md-4"></div>
-        <div class="col-md-4 cintanegra">
-          <h4 class="text-center p-1" style="font-weight: bold;">CONTÁCTANOS</h4>
-        </div>
-      </div>
-  </div>
-
-
-</div>
-
 
 <!-- Quienes Somos -->
 <div class="container-fluid quienessomos">
@@ -289,11 +246,11 @@
     <div class="row">
       <div class="col-md-2"></div>
         <div class="col-md-8">
-          <h2 class="p-3" style="color: #e94d1a; font-weight: lighter;" data-aos="zoom-in" data-aos-duration="1500">Quiénes somos</h2>
+          <h2 class="p-3" style="color: #4C2F60; font-weight: lighter;" data-aos="zoom-in" data-aos-duration="1500">Quiénes somos</h2>
           <h3 style="font-size: 1.5em;">Desde hace 26 años, GABCA Bufete Creativo ha brindado soluciones exitosas para impulsar marcas, productos y servicios mediante la realización de propuestas gráficas y estrategias mercadológicas idóneas para cada proyecto.</h3>
           <h3 class="p-1"><span>&#8226;</span>  <span>&#8226;</span>  <span>&#8226;</span></h3>
           
-          <h2 class="p-3" style="color: #e94d1a; font-weight: lighter;" data-aos="zoom-in" data-aos-duration="1500">Qué hacemos</h2>
+          <h2 class="p-3" style="color: #4C2F60; font-weight: lighter;" data-aos="zoom-in" data-aos-duration="1500">Qué hacemos</h2>
           <h3 style="font-size: 1.5em;">Nos especializamos en:<br>
               Diseño de logotipos <br>
               Imagen Corporativa<br>
@@ -303,7 +260,7 @@
               Publicidad<br></h3>
           <h3 class="p-1"><span>&#8226;</span>  <span>&#8226;</span>  <span>&#8226;</span></h3>
         
-          <h2 class="p-3" style="color: #e94d1a; font-weight: lighter;" data-aos="zoom-in" data-aos-duration="1500">Cómo trabajamos</h2>
+          <h2 class="p-3" style="color: #4C2F60; font-weight: lighter;" data-aos="zoom-in" data-aos-duration="1500">Cómo trabajamos</h2>
         <h3 style="font-size: 1.5em;">
           1. Conocemos a fondo tu negocio, mercado y competencia<br>
           2. Desarrollamos las propuestas idóneas de acuerdo al brief generado<br>

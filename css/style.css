@@ -1,14 +1,13 @@
 
 /*==========================================
- GABCA2.0 CSS Bootstrap based
+ GABCA3.0 CSS Bootstrap based
 ==========================================*/
 
 /*by @behrmart aka Tu Padre Y GABCA*/
 
-/* GABCA2.0 Base Colors SAFE WEB COLORS
+/* GABCA3.0 Base Colors SAFE WEB COLORS
 Colores: 
-Naranja:  #e94d1a;
-Dark Grey:  #1d1d1b;
+color: #4C2F60 
 */
 
 
@@ -68,7 +67,7 @@ a {
 }
 
 a:hover {
-	color: #e94d1a;
+	color: #4C2F60;
 }
 
 

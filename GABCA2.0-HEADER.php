@@ -3,8 +3,8 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>GABCA 2.0</title>
-	<meta name="description" content="GABCA 2.0 Webpage">
+	<title>GABCA 3.0</title>
+	<meta name="description" content="GABCA 3.0 Webpage">
   	<meta name="author" content="GABCA Bufete Creativo & @behrmart">
   	<meta name="keywords" content="Design Marketing Graphic Diseño de logotipos Imagen corportativa Branding">
 
