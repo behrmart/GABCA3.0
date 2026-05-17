@@ -15,9 +15,7 @@
         <li class="nav-item">
           <a class="nav-link" href="#">Inicio</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="GABCA2.0-CONTACTO.php">Contacto</a>
-        </li>
+        
         
       </ul>
     </div>
@@ -237,8 +235,6 @@
 <div class="container-fluid cintanegra p-0 m-0">
   <h3 class="text-center p-4 m-0" style="letter-spacing: 0.05em;">Diseñamos tu marca y comunicación de principio a fin</h3>
 </div>
-
-
 
 <!-- Quienes Somos -->
 <div class="container-fluid quienessomos">
