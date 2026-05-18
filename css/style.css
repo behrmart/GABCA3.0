@@ -7,7 +7,7 @@
 
 /* GABCA3.0 Base Colors SAFE WEB COLORS
 Colores: 
-color: #4C2F60 
+color: #6600cc 
 */
 
 
@@ -24,7 +24,7 @@ html, body {
 	font-family: 'Quicksand', sans-serif;
 	height: 100%;
 	width: 100%;
-	color: #9376de ;
+	color: #6600cc ;
 	}
 
 h1 {
@@ -63,11 +63,11 @@ p {
 }
 
 a {
-	color: #4C2F60 /*so link doesnt appear blue on mobile*/
+	color: #6600cc /*so link doesnt appear blue on mobile*/
 }
 
 a:hover {
-	color: #4C2F60;
+	color: #6600cc;
 }
 
 
@@ -159,7 +159,7 @@ Image Overlay
   width: 100%;
   opacity: 0;
   transition: .7s ease;
-  background-color: #5900ce;
+  background-color: #6600cc;
 }
 
 .containerimg:hover .overlay {
@@ -188,8 +188,8 @@ Bootstrap Buttons
 
 
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color: #5900ce !important;
-    border-color: #9B85BE !important;
+    background-color: #6600cc !important;
+    border-color: #9966cc !important;
 }
 
 
@@ -206,7 +206,7 @@ footer{
 
 
 footer a {
-	color: #5900ce; /*so link doesnt appear blue on mobile*/
+	color: #6600cc; /*so link doesnt appear blue on mobile*/
 }
 
 footer a:hover {

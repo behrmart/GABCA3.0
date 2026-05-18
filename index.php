@@ -34,7 +34,7 @@
       </div>
   </div>
   <div class="container-fluid pb-4">
-    <h1 class="text-center pt-4 pb-2 m-0" style="letter-spacing: 0.05em;" data-aos="fade-right" data-aos-duration="1500">Hacemos que tu marca resalte</h1>
+    <h1 class="text-center pt-4 pb-2 m-0" style="letter-spacing: 0.05em;" data-aos="fade-right" data-aos-duration="1500">Diseñamos cosas padres</h1>
     <h3 class="text-center pt-2 pb-4 m-0" style="letter-spacing: 0.05em;" data-aos="fade-left" data-aos-duration="1500">Diseño de logotipos <span>&#8226;</span> Imagen corportativa <span>&#8226;</span> Branding </h3>
   </div>  
 
@@ -242,11 +242,11 @@
     <div class="row">
       <div class="col-md-2"></div>
         <div class="col-md-8">
-          <h2 class="p-3" style="color: #4C2F60; font-weight: lighter;" data-aos="zoom-in" data-aos-duration="1500">Quiénes somos</h2>
+          <h2 class="p-3" style="color: #9966cc; font-weight: lighter;" data-aos="zoom-in" data-aos-duration="1500">Quiénes somos</h2>
           <h3 style="font-size: 1.5em;">Desde hace 26 años, GABCA Bufete Creativo ha brindado soluciones exitosas para impulsar marcas, productos y servicios mediante la realización de propuestas gráficas y estrategias mercadológicas idóneas para cada proyecto.</h3>
           <h3 class="p-1"><span>&#8226;</span>  <span>&#8226;</span>  <span>&#8226;</span></h3>
           
-          <h2 class="p-3" style="color: #4C2F60; font-weight: lighter;" data-aos="zoom-in" data-aos-duration="1500">Qué hacemos</h2>
+          <h2 class="p-3" style="color: #9966cc; font-weight: lighter;" data-aos="zoom-in" data-aos-duration="1500">Qué hacemos</h2>
           <h3 style="font-size: 1.5em;">Nos especializamos en:<br>
               Diseño de logotipos <br>
               Imagen Corporativa<br>
@@ -256,7 +256,7 @@
               Publicidad<br></h3>
           <h3 class="p-1"><span>&#8226;</span>  <span>&#8226;</span>  <span>&#8226;</span></h3>
         
-          <h2 class="p-3" style="color: #4C2F60; font-weight: lighter;" data-aos="zoom-in" data-aos-duration="1500">Cómo trabajamos</h2>
+          <h2 class="p-3" style="color: #9966cc; font-weight: lighter;" data-aos="zoom-in" data-aos-duration="1500">Cómo trabajamos</h2>
         <h3 style="font-size: 1.5em;">
           1. Conocemos a fondo tu negocio, mercado y competencia<br>
           2. Desarrollamos las propuestas idóneas de acuerdo al brief generado<br>
