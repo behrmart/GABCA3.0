@@ -16,19 +16,10 @@
 <script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 
-
-<script>
-  AOS.init();
-</script>
-
-<script type="text/javascript" src="js/GABCA2.0.js"></script>
+<script type="text/javascript" src="js/GABCA2.0.js?v=20260522-2"></script>
 
 </body>
 </html>
-
-
-
-
 
 
 
